@@ -1,0 +1,9 @@
+name,stock,price,product_association,unit_of_measure
+Rubber Outsole,1000,150,P.E.,pairs
+Mesh Fabric,500,80,P.E.,sq. ft.
+Laces,2000,20,P.E.,pairs
+Canvas Fabric,500,70,Slip-on,sq. ft.
+Elastic Band,1000,15,Slip-on,meters
+Insole,1500,50,P.E.,pairs
+Shoe Box,3000,25,Slip-on,pcs
+Glue,100,300,P.E.,liters
